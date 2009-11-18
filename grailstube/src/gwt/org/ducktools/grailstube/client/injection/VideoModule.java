@@ -2,11 +2,11 @@ package org.ducktools.grailstube.client.injection;
 
 import com.google.gwt.inject.client.AbstractGinModule;
 import com.google.inject.Singleton;
-import org.ducktools.grailstube.client.ui.VideoListView;
-import org.ducktools.grailstube.client.ui.VideoListPresenter;
-import org.ducktools.grailstube.client.ui.VideoDetailsView;
-import org.ducktools.grailstube.client.ui.VideoDetailsPresenter;
 import org.ducktools.grailstube.client.event.EventBus;
+import org.ducktools.grailstube.client.ui.VideoDetailsPresenter;
+import org.ducktools.grailstube.client.ui.VideoDetailsView;
+import org.ducktools.grailstube.client.ui.VideoListPresenter;
+import org.ducktools.grailstube.client.ui.VideoListView;
 
 /**
  * @author Jan Ehrhardt

@@ -22,5 +22,5 @@ public class VideoListPresenter extends AbstractPresenter<VideoListView> {
     this.videoService = videoService;
 
   }
-  
+
 }

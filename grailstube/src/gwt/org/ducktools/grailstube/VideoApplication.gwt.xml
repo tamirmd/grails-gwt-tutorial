@@ -5,7 +5,7 @@
 
   <inherits name="com.google.gwt.user.User"/>
   <inherits name="com.google.gwt.inject.Inject"/>
-  <inherits name="org.grails.plugins.gwt.Grails"/>
+  <inherits name="grails.plugins.gwt.Grails"/>
 
   <entry-point class="org.ducktools.grailstube.client.entry.VideoApplication"/>
 

@@ -20,7 +20,7 @@ public class VideoDetailsPresenter extends AbstractPresenter<VideoDetailsView> {
 
     this.eventBus = eventBus;
     this.videoService = videoService;
-    
+
   }
 
 }

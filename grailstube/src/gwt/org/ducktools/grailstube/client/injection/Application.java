@@ -4,6 +4,7 @@ import com.google.gwt.inject.client.GinModules;
 import com.google.gwt.inject.client.Ginjector;
 import org.ducktools.grailstube.client.ui.VideoDetailsPresenter;
 import org.ducktools.grailstube.client.ui.VideoListPresenter;
+import org.ducktools.grailstube.client.injection.VideoModule;
 
 /**
  * @author Jan Ehrhardt
